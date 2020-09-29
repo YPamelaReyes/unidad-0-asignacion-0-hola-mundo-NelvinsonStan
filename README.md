@@ -10,7 +10,8 @@ Probemos que GitHub funciona.
 
 * En modo edición, escribe tus nombres y apellidos, sustituyendo los puntos suspensivos que verás a continuación por tu respuesta.
 
-  * Tu respuesta aquí: Nelvinson De Jesus 
+  * Tu respuesta aquí: Nelvinson De Jesus
+     Yeiny Pamela Reyes Z.
   
 * Al finalizar, ve al fondo y presiona `Commit changes`.
 
